@@ -1,5 +1,5 @@
 {
-    "name": "@frankziwang/holidates",
+    "name": "@frankziwang-dev/holidates",
     "version": "1.0.0",
     "description": "A script to display holidays in terminal by Frank Zi WANG",
     "main": "./bin/index.js",
@@ -13,9 +13,6 @@
       "type": "git",
       "url": "git+https://github.com/FrankZiWANG-dev/node.git"
     },
-    "files": [
-      "index.js"
-    ],
     "keywords": [
     ],
     "author": "Frank Zi WANG",
