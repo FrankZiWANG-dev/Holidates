@@ -1,5 +1,5 @@
 {
-    "name": "@frankziwang-dev/holidates",
+    "name": "@frankziwang/holidates",
     "version": "1.0.0",
     "description": "A script to display holidays in terminal by Frank Zi WANG",
     "main": "./bin/index.js",
