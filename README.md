@@ -1,5 +1,2 @@
-# Node
-A repo for discovering and experimenting with Node
-
-## Holidates
-Included in here is a tool to display holidays by year in the terminal.
+# Holidates
+A repo for discovering and experimenting with Node by creating a tool to display holidays of the current year in the terminal.
